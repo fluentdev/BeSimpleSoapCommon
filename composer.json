@@ -31,10 +31,5 @@
     "autoload": {
         "psr-0": { "BeSimple\\SoapCommon": "" }
     },
-    "target-dir": "BeSimple/SoapCommon",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.3-dev"
-        }
-    }
+    "target-dir": "BeSimple/SoapCommon"
 }
